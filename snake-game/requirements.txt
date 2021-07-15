@@ -1,0 +1,18 @@
+To create the snake game we need the following steps:
+
+    first we need to have the body of the snake
+        to determine the body of the snake we need to figure out the size of the screen for the game 
+    
+    second we need to be able to move the snake
+        in order to do that we need to read the turtle library documents on their animatios section
+
+    third after we figure out the design of the snake and screen size, we can now think of how to control the snake
+        now we need to create a keypress method so that we can control the snake
+
+    fourth detecting the collision with food
+
+    fifth putting a scoreboard just for fun 
+
+    sixth we need to have a settings for the snake where if it hit the wall its game over
+
+    seventh choosing which side can detect the collision
