@@ -1,5 +1,6 @@
-from turtle import Screen, Turtle
+from turtle import Screen
 from snake import Snake
+from food import Food
 import time
 
 
@@ -14,9 +15,11 @@ screen.title("Nokia Snake Game")
 screen.tracer(0)
 
 
-"""Snake controls settings"""
-#importing Snake class
+#importing Snake & food class
 snake = Snake()
+food = Food()
+
+
 screen.listen()
 #keyboard controls for the snake
 screen.onkey(snake.up, "Up")
