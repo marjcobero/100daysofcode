@@ -25,11 +25,19 @@ class Snake:
     #we are creating the snake and designing 
     def create_snake(self):
         for position in STARTING_POSITIONS:
-            nokia = Turtle(shape="square")
-            nokia.penup()
-            nokia.color("white")
-            nokia.goto(position)
-            self.segments.append(nokia)
+            self.add_segment(position)
+    
+    
+    def add_segment(self, position):
+        nokia = Turtle(shape="square")
+        nokia.penup()
+        nokia.color("white")
+        nokia.goto(position)
+        self.segments.append(nokia)
+    
+    
+    def extend(self):
+        self.add_segment(self.segments[-1].position())
     
     
     #to make the snake move 
@@ -43,20 +51,20 @@ class Snake:
     
     """To be able to control the snake's direction"""
     def up(self):
-        if self.head.setheading() != DOWN:
+        if self.head.heading() != DOWN:
             self.head.setheading(UP)
     
     
     def down(self):
-        if self.head.setheading() != UP:
+        if self.head.heading() != UP:
             self.head.setheading(DOWN)
     
     
     def left(self):
-        if self.head.setheading() != RIGHT:
+        if self.head.heading() != RIGHT:
             self.head.setheading(LEFT)
     
     
     def right(self):
-        if self.head.setheading() != LEFT:
+        if self.head.heading() != LEFT:
             self.head.setheading(RIGHT)
