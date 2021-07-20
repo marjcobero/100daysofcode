@@ -1,5 +1,5 @@
 # 100 DAYS OF CODE
-The popular 100 days of code challenge. In this challenge, i'm focusing more on strengthening my skills as a coder.
+The popular 100 days of code challenge. In this challenge, i'm focusing more on strengthening my skills as a developer.
 
 # This challenge's objectives
 * Building 100 projects in 100 days to master the Python programming language
