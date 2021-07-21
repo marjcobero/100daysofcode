@@ -1,4 +1,4 @@
-What we need in out ping pong game:
+What we need in our ping pong game:
     1. Create the screen
     2. Create and move a paddle
     3. Create another paddle
