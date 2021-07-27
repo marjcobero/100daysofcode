@@ -15,7 +15,7 @@ Marjorie Cobero
 
 # Day 1 - 25 Achievements 
 
-# Ramdom Generators 
+# Different type of generators 
 Src: ASCII art https://ascii.co.uk/art http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 * Day 1 - A band name generator, this is to help people who would like to start a band and lost with what names to start. 
 https://github.com/marjcobero/100daysofcode/blob/master/band-name-generator.py
