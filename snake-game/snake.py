@@ -36,6 +36,14 @@ class Snake:
         self.segments.append(nokia)
     
     
+    def reset(self):
+        for seg in self.segments:   # so that the snake goes away when it resets/dies 
+            seg.goto(1000, 1000)
+        self.segments.clear()
+        self.create_snake()
+        self.head = self.segments[0]
+    
+    
     def extend(self):
         self.add_segment(self.segments[-1].position())
     
