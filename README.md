@@ -2,10 +2,16 @@
 The popular 100 days of code challenge. In this challenge, i'm focusing on practicing my skills to grow as a developer.
 
 # This challenge's objectives
-* Building 100 projects in 100 days to master the Python programming language
+* Building 100 projects in 100 days to practice my skills in Python and to learn more technologies
 * Be able to use Python for data science and machine learning
 * Build GUIs and Desktop applications with Python
-* Learn to use modern frameworks like Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, Matplotlib, Seaborn and much more!
+* To learn most used frameworks like Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, Matplotlib, Seaborn and much more!
+
+# Links
+Day 1 - 25: https://github.com/marjcobero/100daysofcode/blob/master/README.md#day-1---25-achievements
+
+# Author
+Marjorie Cobero
 
 # Day 1 - 25 Achievements 
 
