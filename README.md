@@ -9,8 +9,9 @@ The popular 100 days of code challenge. In this challenge, i'm practicing my ski
 
 # Links
 Day 1 - 25: https://github.com/marjcobero/100daysofcode/blob/master/README.md#day-1---25-achievements
-  Different type of generators https://github.com/marjcobero/100daysofcode#different-type-of-generators
-  Turtle library
+  * Different type of generators https://github.com/marjcobero/100daysofcode#different-type-of-generators
+  *  Turtle library https://github.com/marjcobero/100daysofcode/blob/master/README.md#turtle-library
+  *  Pandas Doc 
 
 # Author
 Marjorie Cobero
@@ -71,6 +72,8 @@ https://github.com/marjcobero/100daysofcode/tree/master/sketch-app
 
 * Day 24 - I added some modifications on the snake game including the high score availability
 
+# Pandas Doc
+src: https://pandas.pydata.org/docs/
 * Day 25 - 
 
 
