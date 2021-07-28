@@ -12,6 +12,7 @@ Day 1 - 25: https://github.com/marjcobero/100daysofcode/blob/master/README.md#da
   * Different type of generators https://github.com/marjcobero/100daysofcode#different-type-of-generators
   *  Turtle library https://github.com/marjcobero/100daysofcode/blob/master/README.md#turtle-library
   *  Pandas Doc https://github.com/marjcobero/100daysofcode/blob/master/README.md#pandas-doc
+Day 25 - 50: https://github.com/marjcobero/100daysofcode/blob/master/README.md#day-25---50-achievements
 
 # Author
 Marjorie Cobero
@@ -77,7 +78,7 @@ src: https://pandas.pydata.org/docs/
 * Day 25 - made an educational game to guess all the states in the united states using turtle for the visual and pandas for easier data reading
 <img width="710" alt="Screen Shot 2021-07-27 at 7 28 54 PM" src="https://user-images.githubusercontent.com/69501884/127254411-342ec366-938b-47b0-b44d-b659ac4edaa0.png">
 
-# Day 25 - 50 Achievements 
+# Day 26 - 50 Achievements 
 * Day 26
  
 
