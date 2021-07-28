@@ -11,7 +11,7 @@ The popular 100 days of code challenge. In this challenge, i'm practicing my ski
 Day 1 - 25: https://github.com/marjcobero/100daysofcode/blob/master/README.md#day-1---25-achievements
   * Different type of generators https://github.com/marjcobero/100daysofcode#different-type-of-generators
   *  Turtle library https://github.com/marjcobero/100daysofcode/blob/master/README.md#turtle-library
-  *  Pandas Doc 
+  *  Pandas Doc https://github.com/marjcobero/100daysofcode/blob/master/README.md#pandas-doc
 
 # Author
 Marjorie Cobero
