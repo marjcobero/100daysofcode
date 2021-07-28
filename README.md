@@ -12,6 +12,7 @@ Day 1 - 25: https://github.com/marjcobero/100daysofcode/blob/master/README.md#da
   * Different type of generators https://github.com/marjcobero/100daysofcode#different-type-of-generators
   *  Turtle library https://github.com/marjcobero/100daysofcode/blob/master/README.md#turtle-library
   *  Pandas Doc https://github.com/marjcobero/100daysofcode/blob/master/README.md#pandas-doc
+  
 Day 25 - 50: https://github.com/marjcobero/100daysofcode/blob/master/README.md#day-25---50-achievements
 
 # Author
