@@ -74,7 +74,12 @@ https://github.com/marjcobero/100daysofcode/tree/master/sketch-app
 
 # Pandas Doc
 src: https://pandas.pydata.org/docs/
-* Day 25 - 
+* Day 25 - made an educational game to guess all the states in the united states using turtle for the visual and pandas for easier data reading
+<img width="710" alt="Screen Shot 2021-07-27 at 7 28 54 PM" src="https://user-images.githubusercontent.com/69501884/127254411-342ec366-938b-47b0-b44d-b659ac4edaa0.png">
+
+# Day 25 - 50 Achievements 
+* Day 26
+ 
 
 
 
