@@ -81,7 +81,7 @@ src: https://pandas.pydata.org/docs/
 
 # Day 26 - 50 Achievements 
 * Day 26 - more csv file experiment; a NATO aplhabet generator to help with spelling 
-![Screen Shot 2021-07-28 at 11 33 49 PM](https://user-images.githubusercontent.com/69501884/127443451-d519f012-3ad7-4411-b69c-b1bbda3c0020.png)
+![Screen Shot 2021-07-28 at 11 37 31 PM](https://user-images.githubusercontent.com/69501884/127443674-08b7bdc8-5471-4114-b9d5-05cef073309f.png)
 
 * Day 27 - 
  
