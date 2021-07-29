@@ -80,7 +80,10 @@ src: https://pandas.pydata.org/docs/
 <img width="710" alt="Screen Shot 2021-07-27 at 7 28 54 PM" src="https://user-images.githubusercontent.com/69501884/127254411-342ec366-938b-47b0-b44d-b659ac4edaa0.png">
 
 # Day 26 - 50 Achievements 
-* Day 26
+* Day 26 - more csv file experiment; a NATO aplhabet generator to help with spelling 
+![Screen Shot 2021-07-28 at 11 33 49 PM](https://user-images.githubusercontent.com/69501884/127443451-d519f012-3ad7-4411-b69c-b1bbda3c0020.png)
+
+# day 27 - 
  
 
 
