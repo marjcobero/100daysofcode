@@ -13,10 +13,10 @@ Day 1 - 25: https://github.com/marjcobero/100daysofcode/blob/master/README.md#da
   *  Turtle library https://github.com/marjcobero/100daysofcode/blob/master/README.md#turtle-library
   *  Pandas Doc https://github.com/marjcobero/100daysofcode/blob/master/README.md#pandas-doc
   
-Day 26 - 50: https://github.com/marjcobero/100daysofcode/blob/master/README.md#day-25---50-achievements
+Day 26 - 50: https://github.com/marjcobero/100daysofcode/blob/master/README.md#day-26---50-achievements
 
 # Author
-Marjorie Cobero
+Marjorie Cobero | http://github.com/marjcobero
 
 # Day 1 - 25 Achievements 
 
