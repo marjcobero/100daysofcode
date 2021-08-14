@@ -92,6 +92,12 @@ src:  https://docs.python.org/3/library/tkinter.html#the-packer
 
 ![Screen Shot 2021-08-13 at 10 08 35 PM](https://user-images.githubusercontent.com/69501884/129434819-5dc7fc11-fdd7-44eb-b4a5-8f928abaae52.png)
 
+* Day 28 - a study timer that would help me in daily basis for when i'm studying and working on my projects.. it also have a break each duration
+
+![studytimer](https://user-images.githubusercontent.com/69501884/129439199-71ec2d33-da9b-4822-8ca9-55b53748e05f.gif)
+
+
+
 
 
 
