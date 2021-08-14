@@ -1,3 +1,4 @@
+
 # 100 DAYS OF CODE
 The popular 100 days of code challenge. In this challenge, i'm practicing my skills to grow as a developer.
 
@@ -83,8 +84,15 @@ src: https://pandas.pydata.org/docs/
 * Day 26 - more csv file experiment; a NATO aplhabet generator to help with spelling 
 ![Screen Shot 2021-07-28 at 11 37 31 PM](https://user-images.githubusercontent.com/69501884/127443674-08b7bdc8-5471-4114-b9d5-05cef073309f.png)
 
-* Day 27 - 
- 
+# Tkinter/Tk GUI 
+src:  https://docs.python.org/3/library/tkinter.html#the-packer
+
+* Day 27 - i made a miles to km converter using Tkinter python GUI toolkit
+
+![Screen Shot 2021-08-13 at 10 08 35 PM](https://user-images.githubusercontent.com/69501884/129434819-5dc7fc11-fdd7-44eb-b4a5-8f928abaae52.png)
+
+
+
 
 
 
