@@ -66,16 +66,17 @@ https://github.com/marjcobero/100daysofcode/tree/master/sketch-app
 <img width="488" alt="Screen Shot 2021-07-26 at 9 31 03 PM" src="https://user-images.githubusercontent.com/69501884/127095693-a2bd39a9-caa0-46ff-a959-14a26d6e4bf7.png">
 
 * Day 20 - recreated the snake game
+
 ![snake](https://user-images.githubusercontent.com/69501884/129516573-de3c5f4a-6957-42b5-ac9a-1499e6c89b38.gif)
 
-
 * Day 21/22 - a simple ping pong game for one player 
+
 ![pingpong](https://user-images.githubusercontent.com/69501884/129516596-201214c3-0bad-4932-bd12-07b21f51306f.gif)
 
 
-* Day 23 - a game where the turtle crosses to the other side of the screen without being able to get hit by the cars 
-![turtlecrossing](https://user-images.githubusercontent.com/69501884/129516609-803b93de-b9e2-4a1d-9a71-cf2b42b41000.gif)
+* Day 23 - a game where the turtle crosses to the other side of the screen without being able to get hit by the cars
 
+![turtlecrossing](https://user-images.githubusercontent.com/69501884/129516609-803b93de-b9e2-4a1d-9a71-cf2b42b41000.gif)
 
 * Day 24 - I added some modifications on the snake game including the high score availability
 
