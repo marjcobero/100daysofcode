@@ -100,6 +100,11 @@ src:  https://docs.python.org/3/library/tkinter.html#the-packer
 
 ![passwordmanager](https://user-images.githubusercontent.com/69501884/129504634-a2aa5a1f-1e17-4e35-832e-95ed274703a1.gif)
 
+* Day 30 - added a new feature for the password manager, a search back end functionality using JSON for better experience.
+
+![passwordmanager2](https://user-images.githubusercontent.com/69501884/129516487-0e5e4ef1-ceeb-408d-b4f9-af60bf46eebc.gif)
+
+
 
 
 
