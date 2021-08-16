@@ -96,7 +96,7 @@ src:  https://docs.python.org/3/library/tkinter.html#the-packer
 
 ![studytimer](https://user-images.githubusercontent.com/69501884/129439199-71ec2d33-da9b-4822-8ca9-55b53748e05f.gif)
 
-* Day 29 - i made a password manager to help me keep up with my passwords, its not internet base but it can save your password to the data.txt on your IDE of choice. This is another Tkinter GUI experiment with pyperclip.
+* Day 29 - i made a password manager to help me keep up with my passwords, its not internet base but it can save your password to the data.txt on your IDE of choice. This is another Tkinter GUI experiment with pyperclip. src https://pypi.org/project/pyperclip/
 
 ![passwordmanager](https://user-images.githubusercontent.com/69501884/129504634-a2aa5a1f-1e17-4e35-832e-95ed274703a1.gif)
 
