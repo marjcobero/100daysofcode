@@ -1,6 +1,5 @@
 import turtle
 import pandas
-from pandas._libs import missing
 
 
 # Screen Settings
