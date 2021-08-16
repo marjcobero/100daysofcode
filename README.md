@@ -66,13 +66,16 @@ https://github.com/marjcobero/100daysofcode/tree/master/sketch-app
 <img width="488" alt="Screen Shot 2021-07-26 at 9 31 03 PM" src="https://user-images.githubusercontent.com/69501884/127095693-a2bd39a9-caa0-46ff-a959-14a26d6e4bf7.png">
 
 * Day 20 - recreated the snake game
-<img width="565" alt="Screen Shot 2021-07-26 at 6 15 38 PM" src="https://user-images.githubusercontent.com/69501884/127095872-61608f78-9710-405b-bb0e-7fbcd8bbb3dd.png">
+![snake](https://user-images.githubusercontent.com/69501884/129516573-de3c5f4a-6957-42b5-ac9a-1499e6c89b38.gif)
+
 
 * Day 21/22 - a simple ping pong game for one player 
-<img width="768" alt="Screen Shot 2021-07-26 at 6 16 17 PM" src="https://user-images.githubusercontent.com/69501884/127095933-97e48d03-372a-4fdd-8302-5db4a21ef68f.png">
+![pingpong](https://user-images.githubusercontent.com/69501884/129516596-201214c3-0bad-4932-bd12-07b21f51306f.gif)
+
 
 * Day 23 - a game where the turtle crosses to the other side of the screen without being able to get hit by the cars 
-<img width="583" alt="Screen Shot 2021-07-26 at 6 16 47 PM" src="https://user-images.githubusercontent.com/69501884/127096007-4de2580c-1270-4afe-b49b-5b9babf39f4c.png">
+![turtlecrossing](https://user-images.githubusercontent.com/69501884/129516609-803b93de-b9e2-4a1d-9a71-cf2b42b41000.gif)
+
 
 * Day 24 - I added some modifications on the snake game including the high score availability
 
