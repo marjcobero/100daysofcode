@@ -108,6 +108,13 @@ src:  https://docs.python.org/3/library/tkinter.html#the-packer
 
 ![passwordmanager2](https://user-images.githubusercontent.com/69501884/129516487-0e5e4ef1-ceeb-408d-b4f9-af60bf46eebc.gif)
 
+* Day 31 - ever wanted to learn a language with your own flash cards? On this project i wanted something that can help me improve on learning French so i created a flash card with Tkinter 
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/69501884/129671694-e999aede-e056-4d40-8997-e2a0f6ddb934.gif)
+
+
+
+
 
 
 
