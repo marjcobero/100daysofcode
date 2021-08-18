@@ -112,6 +112,14 @@ src:  https://docs.python.org/3/library/tkinter.html#the-packer
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/69501884/129671694-e999aede-e056-4d40-8997-e2a0f6ddb934.gif)
 
+# API
+
+* Day 32 - fun little weird mini project on kanye west quotes using API and Tkinter GUI 
+src: https://api.kanye.rest/
+
+![kanye](https://user-images.githubusercontent.com/69501884/129856069-90f6a0c2-3f9b-4173-8bdb-02aafa5b9ea2.gif)
+
+
 
 
 
