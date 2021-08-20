@@ -115,11 +115,13 @@ src:  https://docs.python.org/3/library/tkinter.html#the-packer
 
 # API
 
-* Day 32 - fun little weird mini project on kanye west quotes using API and Tkinter GUI 
-src: https://api.kanye.rest/
+* Day 32 - fun little weird mini project on kanye west quotes using API and Tkinter GUI | src: https://api.kanye.rest/
 
 ![kanye](https://user-images.githubusercontent.com/69501884/129856069-90f6a0c2-3f9b-4173-8bdb-02aafa5b9ea2.gif)
 
+* Day 33 - trivia quiz about anime and mangas | src: https://opentdb.com
+
+![quiz](https://user-images.githubusercontent.com/69501884/130192654-29e114e2-250c-4c31-babf-3c4cba245393.gif)
 
 
 
